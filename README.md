@@ -8,7 +8,7 @@
 
 1. Склонируйте этот репозиторий:
 
-git clone https://github.com/your-username/api-project.git
+git clone https://github.com/your-username/api_rest_menu.git
 
 
 2. Перейдите в каталог проекта:
